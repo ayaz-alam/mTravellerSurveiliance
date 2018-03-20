@@ -8,5 +8,5 @@ This App can store, Visualize and analize when, where and how many tickets have 
   <img src="ScreenShot_mSur.png" width="300"/>
   <img src="screen2.png" width="300"/>
 </p>
-#### From above screenshot we can see that the detailed information about particular city is shown in Creative manner.
-#### In Summary, percentage of excess/lack of transport is calculated and shown for each route.
+### From above screenshot we can see that the detailed information about particular city is shown in Creative manner.
+### In Summary, percentage of excess/lack of transport is calculated and shown for each route.
