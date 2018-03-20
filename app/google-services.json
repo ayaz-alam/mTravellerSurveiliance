@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "875807956459",
+    "firebase_url": "https://mtraveller-daa27.firebaseio.com",
+    "project_id": "mtraveller-daa27",
+    "storage_bucket": "mtraveller-daa27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875807956459:android:9f765f117c489dfa",
+        "android_client_info": {
+          "package_name": "com.medeveloper.ayaz.mtraveller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875807956459-l5svk09c4psu9v9smfi2n81td5jau91d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medeveloper.ayaz.mtraveller",
+            "certificate_hash": "edc450a8e88f7e62bef00ccbd053ab03ac2ff97b"
+          }
+        },
+        {
+          "client_id": "875807956459-kffmu16cr1mdl9i4anr41t68hdq40doe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpfCcyVSRwXSW2z87l7ehyWUFaKSRCYvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875807956459-kffmu16cr1mdl9i4anr41t68hdq40doe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875807956459:android:98133e83a9e3bb92",
+        "android_client_info": {
+          "package_name": "com.medeveloper.ayaz.buslocationsimulator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875807956459-8759qnsbp30ohheg6fbir6i3a70d31d1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medeveloper.ayaz.buslocationsimulator",
+            "certificate_hash": "edc450a8e88f7e62bef00ccbd053ab03ac2ff97b"
+          }
+        },
+        {
+          "client_id": "875807956459-kffmu16cr1mdl9i4anr41t68hdq40doe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpfCcyVSRwXSW2z87l7ehyWUFaKSRCYvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875807956459-kffmu16cr1mdl9i4anr41t68hdq40doe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875807956459:android:4bd702a1ae04dd35",
+        "android_client_info": {
+          "package_name": "com.medeveloper.ayaz.mtraveller_surveiliance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "875807956459-p656hikgn2m593pd6ur83cigmjobrsp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.medeveloper.ayaz.mtraveller_surveiliance",
+            "certificate_hash": "edc450a8e88f7e62bef00ccbd053ab03ac2ff97b"
+          }
+        },
+        {
+          "client_id": "875807956459-kffmu16cr1mdl9i4anr41t68hdq40doe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpfCcyVSRwXSW2z87l7ehyWUFaKSRCYvg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "875807956459-kffmu16cr1mdl9i4anr41t68hdq40doe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
